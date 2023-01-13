@@ -1,0 +1,5 @@
+Curso Profesional de Git y GitHub
+
+Archivo ejemplo para repositorio "proyecto-1"
+
+Felicidades, estas avanzando mucho!

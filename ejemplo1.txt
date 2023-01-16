@@ -1,11 +1,5 @@
-Primeros pasos con Git y GitHub
+Curso Profesional de Git y GitHub
 
 Archivo ejemplo para repositorio "proyecto-1"
 
-Modificación #1
-
-modificación #3
-
-Agrgando más commits
-
-Felicidades, estas avanzando mucho!
+Han pasado más de dos días aprendiendo Git. Felicidades, estas avanzando mucho!

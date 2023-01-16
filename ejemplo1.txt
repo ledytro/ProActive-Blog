@@ -1,4 +1,4 @@
-Curso Profesional de Git y GitHub
+Primeros pasos con Git y GitHub
 
 Archivo ejemplo para repositorio "proyecto-1"
 

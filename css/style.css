@@ -1,7 +1,8 @@
 body {
+    background: #D6D5A8;
     text-align: center;
     font-family: monospace;
-    color: darkslategrey;
+    color: #1B2430;
     margin: 0;
     padding: 0;
 }
@@ -25,7 +26,7 @@ body {
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #ddd;
+    border: 1px solid #816797;
     margin: 0 auto;
 }
 

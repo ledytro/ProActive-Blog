@@ -2,4 +2,6 @@ Curso Profesional de Git y GitHub
 
 Archivo ejemplo para repositorio "proyecto-1"
 
+Master 1
+
 Han pasado más de dos días aprendiendo Git. Felicidades, estas avanzando mucho!

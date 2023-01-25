@@ -1,10 +1,14 @@
 body {
-    background: #f8f8f2;
+    background-image: url(https://i.imgur.com/YPX0r3e.jpeg);
     text-align: center;
     font-family: monospace;
     color: #1B2430;
     margin: 0;
     padding: 0;
+}
+
+#container {
+    background: #f8f8f2;
 }
 
 #cabecera {

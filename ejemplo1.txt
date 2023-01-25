@@ -4,4 +4,6 @@ Archivo ejemplo para repositorio "proyecto-1"
 
 Master 1
 
+Master 2
+
 Han pasado más de dos días aprendiendo Git. Felicidades, estas avanzando mucho!

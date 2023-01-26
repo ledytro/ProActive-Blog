@@ -12,3 +12,4 @@
 * Trabajar en Equipos de Forma Colaborativa
 * Utilizar Dominios Personalizados con GitHub Pages
 * Instalar Git en tu sistema operativo
+* Ejemplos en múltiples plataformas

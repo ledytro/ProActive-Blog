@@ -4,6 +4,8 @@
 
 ## Todo el contenido del mismo es el resultado de un proceso conjunto que me llevó a entender lo que significa Git y GitHub.
 
+## Gracias Platzi por esos cursos tan increibles :green_heart:
+
 ## ¿Qué aprendí?
 
 * Llevar un Control de Versiones en tus Proyectos con Git
